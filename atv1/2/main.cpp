@@ -1,5 +1,7 @@
 #include <cstdio>
 
+
+
 void imprimeVetor(int vetor[]){
 
     for (int j = 0; j < 9 ; j++) {
